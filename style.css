@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ECF2FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.conteiner1 {
+    background-color: #FFFFFF;
+    width: 736px;
+    height: 512px;
+    border-radius: 32px;
+    display: flex;
+    flex-direction: row;
+}
+
+.box1 {
+    width: 368px;
+    height: 512px;
+    background-color: #6943FF;
+    border-radius: 32px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+h2 {
+    width: 125px;
+    height: 31px;
+    color: #CAC9FF;
+    margin-top: 38px;
+
+
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 360px;
+    background-color: #4D21C9;
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 55px;
+
+}
+
+span {
+    width: 52px;
+    height: 23px;
+    color: #CAC9FF;
+}
+
+.info {
+    width: 260px;
+    height: 134px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 28px;
+    flex-direction: row;
+
+
+}
+
+.box2 {
+    width: 288px;
+    height: 272px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 97px;
+    margin-left: 40px
+}
+
+.cube1 {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 288px;
+    height: 56px;
+    background-color: #FFE5E5;
+    margin-top: 16px;
+
+}
+
+.cube2 {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 288px;
+    height: 56px;
+    background-color: #FFF9E5;
+    margin-top: 16px;
+
+}
+
+.cube3 {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 288px;
+    height: 56px;
+    background-color: #E5FFE5;
+    margin-top: 16px;
+
+}
+
+.cube4 {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 288px;
+    height: 56px;
+    background-color: #E5E5FF;
+    margin-top: 16px;
+
+}
+
+.cube5 {
+    width: 288px;
+    height: 56px;
+    margin-top: 16px;
+    background-color: rgba(48, 59, 89, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    color: white;
+    margin-left: 25px;
+
+
+}
+
+.box2 img {
+    margin-left: 16px;
+}
